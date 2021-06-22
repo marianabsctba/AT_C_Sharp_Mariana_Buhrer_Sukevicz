@@ -1,0 +1,6 @@
+﻿1;Blusa;True;Quente;True;21/06/2021;1;11;
+2;Sapato;False;Festa;False;21/04/2021;2;2;
+3;Bolsa;False;Festa;False;22/06/2021;1;5;
+4;Cobertor;False;Pena;True;20/03/2020;1;20;
+5;Vestido;False;Verão;False;22/06/2021;3;10;
+6;Sofas;True;Vermelho;False;19/04/2021;1;11;
